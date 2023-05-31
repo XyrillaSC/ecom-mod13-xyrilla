@@ -12,3 +12,8 @@ Then run "node server.js" to get started.
 
 ## Walkthrough Video
 ---
+
+
+
+https://github.com/XyrillaSC/ecom-mod13-xyrilla/assets/111295666/cd10e209-6e58-4111-b290-b94749983bf1
+
